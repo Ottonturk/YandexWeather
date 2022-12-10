@@ -90,3 +90,6 @@ give a path to container:  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sb
 22. Conntect to GitHub (only for pro, team and higher account):
 xxxx
 
+23. скачать вручную образ:
+$ docker pull ottonturkg/weatherapidoc_10122022:YandexWeather
+
