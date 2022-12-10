@@ -87,6 +87,6 @@ give name to container: Weather5_image
 give a 80 to PORTS: 80
 give a path to container:  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 
-22. Conntect to GitHub:
+22. Conntect to GitHub (only for pro, team and higher account):
 xxxx
 
